@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#weather-info{
+    padding: 20px;
+    border: #2C3E50 solid 3px;
+    border-radius: 10px;
+    max-width: 200px;
+    background: #e5e5e5;
+}
